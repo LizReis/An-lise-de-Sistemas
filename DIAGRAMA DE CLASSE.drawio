@@ -14,7 +14,7 @@
           <mxGeometry x="50" y="20" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="YI8qZAI8sFxIkvRVpKfF-4" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Login&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- id: int;&lt;br&gt;- senha: string;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- efetuarLogin(): void;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="70" width="180" height="180" as="geometry" />
+          <mxGeometry x="510" y="30" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="YI8qZAI8sFxIkvRVpKfF-5" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Aluno&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span style=&quot;&quot;&gt;- id : int;&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;- nome: string;&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;- cpf: int;&lt;br&gt;- rg: int;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;- senha: int;&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;- email: string;&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;- numeroTelefone: string;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;- numeroMatricula: string;&lt;br&gt;- nomeResponsaveis: string;&lt;br&gt;- rgResponsaveis: int;&lt;br&gt;- numeroNIS: int;&lt;br&gt;- contatoResponsaveis: string;&lt;br&gt;- endereco: string;&lt;br&gt;- cartaoSUS: int;&lt;br&gt;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
           <mxGeometry x="270" y="20" width="180" height="310" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="-180" y="850" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="YI8qZAI8sFxIkvRVpKfF-8" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Cadastro das Aulas&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- dataCompleta: string;&lt;br&gt;- nomeAssunto: stirng;&lt;br&gt;- numeroAula: int;&lt;br&gt;- disciplina: string;&lt;br&gt;- nomeProfessor: string;&lt;br&gt;- materiaisUtilizados: string;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- cadastrarAula(): void;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
-          <mxGeometry x="860" y="780" width="180" height="180" as="geometry" />
+          <mxGeometry x="730" y="30" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="YI8qZAI8sFxIkvRVpKfF-9" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Lançamentos&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- nomeAluno: string;&lt;br&gt;- disciplina: string;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span style=&quot;&quot;&gt;- lancarFrequencia(): void;&lt;br&gt;&lt;/span&gt;- lancarNotas(): void;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
           <mxGeometry x="-50" y="550" width="180" height="180" as="geometry" />
@@ -82,20 +82,56 @@
             <mxPoint x="455" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0EFO7RBAgr80WLlCccx1-25" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Geração de Atestados&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- desempenhoEscolar: string;&lt;br&gt;- frequencia: int;&lt;br&gt;- comparecimento: int;&lt;br&gt;- numeroMatricula:&amp;nbsp; string;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- gerarAtestado(): string;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
-          <mxGeometry x="150" y="405" width="180" height="180" as="geometry" />
+        <mxCell id="0EFO7RBAgr80WLlCccx1-25" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Atestados&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- desempenhoEscolar: string;&lt;br&gt;- frequencia: int;&lt;br&gt;- comparecimento: int;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="210" y="520" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="0EFO7RBAgr80WLlCccx1-26" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Geração de Relatórios Pedag.&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- nomeAluno: string;&lt;br&gt;- data: int;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- gerarRelario(): string;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
-          <mxGeometry x="480" y="420" width="180" height="180" as="geometry" />
+        <mxCell id="0EFO7RBAgr80WLlCccx1-26" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Relatórios Pedag.&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="300" y="717.5" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="0EFO7RBAgr80WLlCccx1-27" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Geração de Frequência&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- nomeAluno: string;&lt;br&gt;- data: int;&lt;br&gt;- frequencia: int;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- gerarFrequencia(): string;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
-          <mxGeometry x="690" y="270" width="180" height="180" as="geometry" />
+        <mxCell id="0EFO7RBAgr80WLlCccx1-27" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Frequência&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;- frequencia: int;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="510" y="640" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="0EFO7RBAgr80WLlCccx1-28" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Geração de Histórico&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- nomeAluno: string;&lt;br&gt;- data: int;&lt;br&gt;- turnoEstudo: string;&lt;br&gt;- numeroMatricula: string;&lt;br&gt;- notas: float;&lt;br&gt;- medias: float;&lt;br&gt;- situacaoAcademica: string;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- gerarHistorico(): string;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
-          <mxGeometry x="670" y="550" width="180" height="180" as="geometry" />
+        <mxCell id="0EFO7RBAgr80WLlCccx1-28" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Histórico&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;- turnoEstudo: string;&lt;br&gt;- notas: float;&lt;br&gt;- medias: float;&lt;br&gt;- situacaoAcademica: string;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="710" y="717.5" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="0EFO7RBAgr80WLlCccx1-29" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Geração de Boletins&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- nomeAluno: string;&lt;br&gt;- data: int;&lt;br&gt;- disciplinas: string;&lt;br&gt;- notas: float;&lt;br&gt;- medias: float;&lt;br&gt;- situacaoAcademica: string;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- gerarBoletim(): string;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
-          <mxGeometry x="930" y="540" width="180" height="180" as="geometry" />
+        <mxCell id="0EFO7RBAgr80WLlCccx1-29" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Boletins&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;- disciplinas: string;&lt;br&gt;- notas: float;&lt;br&gt;- medias: float;&lt;br&gt;- situacaoAcademica: string;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="780" y="537.5" width="180" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="0EFO7RBAgr80WLlCccx1-30" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Geração&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- nomeAluno: string;&lt;br&gt;- numeroMatricula: string;&lt;br&gt;- data: int;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- gerarRelario(): string;&lt;br&gt;- gerarFrequencia(): string;&lt;br&gt;- gerarBoletim(): string;&lt;br&gt;- gerarHistorico(): string;&lt;br&gt;- gerarAtestado(): string;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="0EFO7RBAgr80WLlCccx1-31" value="" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="0EFO7RBAgr80WLlCccx1-25" target="0EFO7RBAgr80WLlCccx1-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="680" as="sourcePoint" />
+            <mxPoint x="369" y="562" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EFO7RBAgr80WLlCccx1-32" value="" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="0EFO7RBAgr80WLlCccx1-26" target="0EFO7RBAgr80WLlCccx1-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="640" as="sourcePoint" />
+            <mxPoint x="540" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EFO7RBAgr80WLlCccx1-33" value="" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="0EFO7RBAgr80WLlCccx1-27" target="0EFO7RBAgr80WLlCccx1-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="580" as="sourcePoint" />
+            <mxPoint x="585" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EFO7RBAgr80WLlCccx1-34" value="" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="0EFO7RBAgr80WLlCccx1-28" target="0EFO7RBAgr80WLlCccx1-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="590" as="sourcePoint" />
+            <mxPoint x="595" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EFO7RBAgr80WLlCccx1-36" value="" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="0EFO7RBAgr80WLlCccx1-29" target="0EFO7RBAgr80WLlCccx1-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="740" as="sourcePoint" />
+            <mxPoint x="675" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0EFO7RBAgr80WLlCccx1-37" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Cadastro das Turmas&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- turnoAula: string;&lt;br&gt;- quantidadeAlunos: int;&lt;br&gt;- quantidadeAulas: int;&lt;br&gt;- ciclos: string;&lt;br&gt;- cargaHoraria: int;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- cadastrarTurma(): void;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="930" y="30" width="180" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
