@@ -17,7 +17,7 @@
           <mxGeometry x="710" y="50" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QQ_587JNlkNqWdxAlMka-7" value="1: logar()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="90" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="95" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQ_587JNlkNqWdxAlMka-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QQ_587JNlkNqWdxAlMka-1" target="QQ_587JNlkNqWdxAlMka-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QQ_587JNlkNqWdxAlMka-15" value="1.1: verificarLogin()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="90" width="60" height="30" as="geometry" />
+          <mxGeometry x="410" y="96" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQ_587JNlkNqWdxAlMka-16" value="" style="endArrow=open;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;endFill=0;" edge="1" parent="1" source="QQ_587JNlkNqWdxAlMka-12" target="QQ_587JNlkNqWdxAlMka-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
