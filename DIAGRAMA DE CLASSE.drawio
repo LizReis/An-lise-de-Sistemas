@@ -11,7 +11,7 @@
           <mxGeometry x="139" y="1295" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="YI8qZAI8sFxIkvRVpKfF-3" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Professor&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- id : int;&lt;br&gt;- nome: string;&lt;br&gt;- cpf: int;&lt;br&gt;- senha: int;&lt;br&gt;- email: string;&lt;br&gt;- numeroTelefone: string;&lt;span style=&quot;&quot;&gt;&lt;br&gt;- turnoTrabalho: string;&lt;br&gt;- disciplinasMinistradas: string;&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;+ lançarNotas(): boolean;&lt;br&gt;+ lançarNotas(): boolean;&lt;br&gt;+ lancarPlanAulas(): boolean;&lt;br&gt;+ gerarCompFreq(): string;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
-          <mxGeometry x="351" y="950" width="200" height="240" as="geometry" />
+          <mxGeometry x="351" y="740" width="200" height="240" as="geometry" />
         </mxCell>
         <mxCell id="YI8qZAI8sFxIkvRVpKfF-4" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Login&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- id: int;&lt;br&gt;- senha: string;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- efetuarLogin(): boolean;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
           <mxGeometry x="140" y="395" width="180" height="180" as="geometry" />
@@ -20,16 +20,16 @@
           <mxGeometry x="330" y="1420" width="180" height="310" as="geometry" />
         </mxCell>
         <mxCell id="YI8qZAI8sFxIkvRVpKfF-6" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Notas&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- numeroMatricula: string;&lt;br&gt;- notas: float;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="715" width="180" height="180" as="geometry" />
+          <mxGeometry x="1040" y="443" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="YI8qZAI8sFxIkvRVpKfF-7" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Frequência&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- data completa: string;&lt;br&gt;- nomeProfessor: string;&lt;br&gt;- quantidadeFaltas: int;&lt;br&gt;- quantidadePresenca: int;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="910" width="180" height="180" as="geometry" />
+          <mxGeometry x="1050" y="670" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="YI8qZAI8sFxIkvRVpKfF-8" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Cadastro das Aulas&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- dataCompleta: string;&lt;br&gt;- nomeAssunto: stirng;&lt;br&gt;- numeroAula: int;&lt;br&gt;- disciplina: string;&lt;br&gt;- nomeProfessor: string;&lt;br&gt;- materiaisUtilizados: string;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- cadastrarAula(): boolean;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
-          <mxGeometry x="750" y="1150" width="180" height="180" as="geometry" />
+          <mxGeometry x="310" y="1060" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="YI8qZAI8sFxIkvRVpKfF-9" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Lançamentos&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- nomeAluno: string;&lt;br&gt;- disciplina: string;&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;span style=&quot;&quot;&gt;- lancarFrequencia():&amp;nbsp;&lt;/span&gt;boolean&lt;span style=&quot;&quot;&gt;;&lt;br&gt;&lt;/span&gt;- lancarNotas(): boolean;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
-          <mxGeometry x="730" y="790" width="180" height="180" as="geometry" />
+          <mxGeometry x="720" y="550" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="0EFO7RBAgr80WLlCccx1-6" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Cadastro&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- cpf: int;&lt;br&gt;- senha: string;&lt;br&gt;- email: string;&lt;br&gt;- numeroTelefone: string;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- cadastrarAluno(): boolean;&lt;br&gt;- cadastrarProfessor() boolean;&lt;br&gt;- cadastrarCoordenacao(): boolean;&lt;br&gt;- cadastrarGestao(): boolean;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
           <mxGeometry x="-280" y="405" width="220" height="180" as="geometry" />
@@ -39,7 +39,7 @@
             <mxPoint x="1140" y="660" as="sourcePoint" />
             <mxPoint x="1190" y="610" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="865" y="1000" />
+              <mxPoint x="855" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -48,7 +48,7 @@
             <mxPoint x="750" y="880" as="sourcePoint" />
             <mxPoint x="849" y="762" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="865" y="750" />
+              <mxPoint x="855" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -162,7 +162,7 @@
             <mxPoint x="-490" y="945" as="sourcePoint" />
             <mxPoint x="-170" y="800" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="501" y="880" />
+              <mxPoint x="501" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -171,12 +171,12 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xoD3tihYEhxn2w1TW_yq-13" value="" style="endArrow=open;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" parent="1" source="YI8qZAI8sFxIkvRVpKfF-3" target="YI8qZAI8sFxIkvRVpKfF-8" edge="1">
+        <mxCell id="xoD3tihYEhxn2w1TW_yq-13" value="" style="endArrow=open;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="570" y="1020" as="sourcePoint" />
-            <mxPoint x="740" y="890" as="targetPoint" />
+            <mxPoint x="440.85714285714266" y="980" as="sourcePoint" />
+            <mxPoint x="440" y="1060" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="501" y="1240" />
+              <mxPoint x="440" y="1000" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -217,16 +217,16 @@
           <mxGeometry x="40" y="1000" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xoD3tihYEhxn2w1TW_yq-25" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="490" y="920" width="60" height="30" as="geometry" />
+          <mxGeometry x="491" y="700" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xoD3tihYEhxn2w1TW_yq-26" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="690" y="880" width="60" height="30" as="geometry" />
+          <mxGeometry x="671" y="650" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xoD3tihYEhxn2w1TW_yq-27" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="491" y="1210" width="60" height="30" as="geometry" />
+          <mxGeometry x="431" y="980" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xoD3tihYEhxn2w1TW_yq-28" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="700" y="1210" width="60" height="30" as="geometry" />
+          <mxGeometry x="431" y="1030" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xoD3tihYEhxn2w1TW_yq-29" value="1..4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="85" y="1310" width="60" height="30" as="geometry" />
@@ -289,6 +289,15 @@
         <mxCell id="vUQMLKHa1vaMQkAAcuZ9-8" value="Faz" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vUQMLKHa1vaMQkAAcuZ9-7">
           <mxGeometry x="0.0027" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vUQMLKHa1vaMQkAAcuZ9-13" value="" style="endArrow=open;html=1;rounded=0;startArrow=diamondThin;startFill=1;endFill=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="YI8qZAI8sFxIkvRVpKfF-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="341" y="1548" as="sourcePoint" />
+            <mxPoint x="760" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="1500" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
