@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QQ_587JNlkNqWdxAlMka-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="120" width="10" height="330" as="geometry" />
+          <mxGeometry x="130" y="120" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QQ_587JNlkNqWdxAlMka-4" value="Interface" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="50" width="90" height="40" as="geometry" />
@@ -103,10 +103,10 @@
         <mxCell id="QQ_587JNlkNqWdxAlMka-61" value="1.5: gerarComprovante()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="586.5" y="376" width="153.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QQ_587JNlkNqWdxAlMka-62" value="" style="endArrow=open;html=1;rounded=0;dashed=1;dashPattern=8 8;endFill=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="QQ_587JNlkNqWdxAlMka-59" target="QQ_587JNlkNqWdxAlMka-1" edge="1">
+        <mxCell id="QQ_587JNlkNqWdxAlMka-62" value="" style="endArrow=open;html=1;rounded=0;dashed=1;dashPattern=8 8;endFill=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" source="QQ_587JNlkNqWdxAlMka-59" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="351" as="sourcePoint" />
-            <mxPoint x="150" y="450" as="targetPoint" />
+            <mxPoint x="170" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QQ_587JNlkNqWdxAlMka-63" value="Retorna Documento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
