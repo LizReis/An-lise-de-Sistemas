@@ -300,9 +300,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AQ2CTy2jmuQgee-HgEAH-5" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;Sistema&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- ArrayList&amp;lt;Professor&amp;gt; professores;&lt;br&gt;- ArrayList&amp;lt;Aluno&amp;gt; alunos;&lt;br&gt;- ArrayList&amp;lt;Gestao&amp;gt; gestores;&lt;br&gt;- ArrayList&amp;lt;Coordenacao&amp;gt; coordenadores;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- efetuarLogin(): boolean;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="1060" width="250" height="180" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
