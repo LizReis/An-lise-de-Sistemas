@@ -244,6 +244,24 @@
         <mxCell id="ch8VjbG1KS-RVIuM3IMI-38" value="4: emitirComprovante()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="172" y="376" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ch8VjbG1KS-RVIuM3IMI-39" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ch8VjbG1KS-RVIuM3IMI-26" target="QQ_587JNlkNqWdxAlMka-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="145" y="130" as="sourcePoint" />
+            <mxPoint x="145" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ch8VjbG1KS-RVIuM3IMI-40" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ch8VjbG1KS-RVIuM3IMI-30" target="ch8VjbG1KS-RVIuM3IMI-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="155" y="140" as="sourcePoint" />
+            <mxPoint x="155" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ch8VjbG1KS-RVIuM3IMI-41" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ch8VjbG1KS-RVIuM3IMI-35" target="ch8VjbG1KS-RVIuM3IMI-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="145" y="310" as="sourcePoint" />
+            <mxPoint x="145" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
