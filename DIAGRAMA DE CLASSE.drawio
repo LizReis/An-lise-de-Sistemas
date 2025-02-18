@@ -65,10 +65,10 @@
           <mxGeometry x="-60" y="1810" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="0EFO7RBAgr80WLlCccx1-29" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Boletins&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;- disciplinas: string;&lt;br&gt;- notas: float;&lt;br&gt;- medias: float;&lt;br&gt;- situacaoAcademica: string;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
-          <mxGeometry x="130" y="1700" width="180" height="145" as="geometry" />
+          <mxGeometry x="40" y="1640" width="180" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="0EFO7RBAgr80WLlCccx1-30" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Geração&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- nomeAluno: string;&lt;br&gt;- numeroMatricula: string;&lt;br&gt;- notasAluno: float;&lt;br&gt;- data: int;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- gerarRelario(): string;&lt;br&gt;- gerarFrequencia(): string;&lt;br&gt;- gerarBoletim(): string;&lt;br&gt;- gerarHistorico(): string;&lt;br&gt;- gerarAtestado(): string;&lt;br&gt;- verificarAluno(): String&lt;br&gt;- verificarAulasLancadas():String&lt;br&gt;- verificarFreqAlunos(): String&lt;br&gt;- gerarComprovante(): String&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="1310" width="180" height="270" as="geometry" />
+        <mxCell id="0EFO7RBAgr80WLlCccx1-30" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;Geração&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- nomeAluno: string;&lt;br&gt;- numeroMatricula: string;&lt;br&gt;- notasAluno: float;&lt;br&gt;- data: int;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;- gerarRelatorio(): string;&lt;br&gt;- gerarFrequencia(): string;&lt;br&gt;- gerarBoletim(): string;&lt;br&gt;- gerarHistorico(): string;&lt;br&gt;- gerarAtestado(): string;&lt;br&gt;- verificarAluno(): String&lt;br&gt;- verificarAulasLancadas():String&lt;br&gt;- verificarFreqAlunos(): String&lt;br&gt;- gerarComprovante(): String&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;overflow=fill;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="1310" width="210" height="270" as="geometry" />
         </mxCell>
         <mxCell id="0EFO7RBAgr80WLlCccx1-31" value="" style="endArrow=block;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" parent="1" source="0EFO7RBAgr80WLlCccx1-25" target="0EFO7RBAgr80WLlCccx1-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -136,7 +136,7 @@
             <mxPoint x="110" y="960" as="sourcePoint" />
             <mxPoint x="390" y="960" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-150" y="770" />
+              <mxPoint x="-165" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -250,7 +250,7 @@
           <mxGeometry x="-130" y="770" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xoD3tihYEhxn2w1TW_yq-37" value="0..*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="1360" width="60" height="30" as="geometry" />
+          <mxGeometry x="-170" y="1280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vUQMLKHa1vaMQkAAcuZ9-3" value="" style="endArrow=open;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endFill=0;exitX=0.444;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="YI8qZAI8sFxIkvRVpKfF-1" target="YI8qZAI8sFxIkvRVpKfF-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
