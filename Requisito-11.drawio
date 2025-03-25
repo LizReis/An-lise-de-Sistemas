@@ -155,10 +155,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WPZQ4v_U4cpJxdsqc8Yv-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="217" y="345" width="10" height="65" as="geometry" />
+          <mxGeometry x="216" y="345" width="10" height="65" as="geometry" />
         </mxCell>
         <mxCell id="WPZQ4v_U4cpJxdsqc8Yv-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="220" y="470" width="10" height="40" as="geometry" />
+          <mxGeometry x="215" y="470" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WPZQ4v_U4cpJxdsqc8Yv-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="452" y="210" width="10" height="40" as="geometry" />
