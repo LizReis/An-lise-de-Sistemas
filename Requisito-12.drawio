@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="Página-1" id="7IFadYK3htX6NSER1Dyw">
-    <mxGraphModel dx="954" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="2904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-1200" width="480" height="1290" as="geometry" />
+        </mxCell>
         <mxCell id="dbxqr3hXvO_ktMDXwcVB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dbxqr3hXvO_ktMDXwcVB-1" target="dbxqr3hXvO_ktMDXwcVB-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -85,6 +88,9 @@
         </mxCell>
         <mxCell id="dbxqr3hXvO_ktMDXwcVB-25" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="dbxqr3hXvO_ktMDXwcVB-23">
           <mxGeometry x="3.5" y="3.75" width="22.5" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-29" value="Requisito-12 GESTÃO PODE VISUALIZAR E/OU ALTERAR CADASTROS DO SISTEMA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-1190" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
