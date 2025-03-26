@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="Página-1" id="A9NW-O0Ft4wsnN-HpUAg">
-    <mxGraphModel dx="954" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="2904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-1210" width="460" height="1510" as="geometry" />
+        </mxCell>
         <mxCell id="u-mHMumUnYcgjxV2VFEE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-mHMumUnYcgjxV2VFEE-2" target="u-mHMumUnYcgjxV2VFEE-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -108,6 +111,9 @@
         </mxCell>
         <mxCell id="u-mHMumUnYcgjxV2VFEE-30" value="Usuário informa o e-mail" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="-630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-32" value="Requisito-06 PRIMEIRO LOGIN E ALTERAÇÃO DA SENHA PADRÃO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-1199" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
