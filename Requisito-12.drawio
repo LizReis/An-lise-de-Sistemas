@@ -1,9 +1,91 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="Página-1" id="7IFadYK3htX6NSER1Dyw">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dbxqr3hXvO_ktMDXwcVB-1" target="dbxqr3hXvO_ktMDXwcVB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-1090" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dbxqr3hXvO_ktMDXwcVB-2" target="dbxqr3hXvO_ktMDXwcVB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-2" value="Gestão entra no sistema" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="265" y="-995" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dbxqr3hXvO_ktMDXwcVB-4" target="dbxqr3hXvO_ktMDXwcVB-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-4" value="Gestão clica em visualizar um cadastro" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="-855" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dbxqr3hXvO_ktMDXwcVB-6" target="dbxqr3hXvO_ktMDXwcVB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-6" value="Sistema mostra as informações do cadastro selecionado" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="-715" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dbxqr3hXvO_ktMDXwcVB-8" target="dbxqr3hXvO_ktMDXwcVB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-8" value="Gestão clica em alterar uma informação do cadastro" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="-575" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dbxqr3hXvO_ktMDXwcVB-10" target="dbxqr3hXvO_ktMDXwcVB-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-10" value="Sistema emite mensagem se deseja mesmo alterar" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="-435" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dbxqr3hXvO_ktMDXwcVB-12" target="dbxqr3hXvO_ktMDXwcVB-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="-310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="-310" />
+              <mxPoint x="520" y="-685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-17" value="[Não alterar]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dbxqr3hXvO_ktMDXwcVB-16">
+          <mxGeometry x="-0.1385" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dbxqr3hXvO_ktMDXwcVB-12" target="dbxqr3hXvO_ktMDXwcVB-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-20" value="[Confirma alteração]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dbxqr3hXvO_ktMDXwcVB-19">
+          <mxGeometry x="-0.12" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-340" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dbxqr3hXvO_ktMDXwcVB-18" target="dbxqr3hXvO_ktMDXwcVB-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-18" value="Sistema emite mensagem de sucesso na alteração" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dbxqr3hXvO_ktMDXwcVB-21" target="dbxqr3hXvO_ktMDXwcVB-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-21" value="Sistema volta para as informações do cadastro" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="315" y="30" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-24" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="dbxqr3hXvO_ktMDXwcVB-23">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dbxqr3hXvO_ktMDXwcVB-25" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="dbxqr3hXvO_ktMDXwcVB-23">
+          <mxGeometry x="3.5" y="3.75" width="22.5" height="22.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
