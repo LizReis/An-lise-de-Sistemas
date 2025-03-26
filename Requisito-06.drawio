@@ -1,9 +1,114 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram name="Página-1" id="A9NW-O0Ft4wsnN-HpUAg">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="1735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-mHMumUnYcgjxV2VFEE-2" target="u-mHMumUnYcgjxV2VFEE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="445" y="-1120" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u-mHMumUnYcgjxV2VFEE-4" target="u-mHMumUnYcgjxV2VFEE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-4" value="Usuário informa o cpf" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u-mHMumUnYcgjxV2VFEE-6" target="u-mHMumUnYcgjxV2VFEE-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-6" value="Usuário clica no botão de primeiro acesso" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="u-mHMumUnYcgjxV2VFEE-8" target="u-mHMumUnYcgjxV2VFEE-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-8" value="Sistema envia senha padrão para email do usuario" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u-mHMumUnYcgjxV2VFEE-10" target="u-mHMumUnYcgjxV2VFEE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-10" value="Usuário informa a senha padrão recebida" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-mHMumUnYcgjxV2VFEE-12" target="u-mHMumUnYcgjxV2VFEE-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-12" value="Sistema valida as credenciais" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="u-mHMumUnYcgjxV2VFEE-26" target="u-mHMumUnYcgjxV2VFEE-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="20" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-14" value="[invalido]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u-mHMumUnYcgjxV2VFEE-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="u-mHMumUnYcgjxV2VFEE-26" target="u-mHMumUnYcgjxV2VFEE-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="60" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-16" value="[validado]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u-mHMumUnYcgjxV2VFEE-15">
+          <mxGeometry x="-0.0889" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.558;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="u-mHMumUnYcgjxV2VFEE-18" target="u-mHMumUnYcgjxV2VFEE-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="-40" as="sourcePoint" />
+            <mxPoint x="610" y="-320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-18" value="mensagem de erro para o usuário" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u-mHMumUnYcgjxV2VFEE-20" target="u-mHMumUnYcgjxV2VFEE-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-20" value="Solicita alteração da senha padrão" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-mHMumUnYcgjxV2VFEE-22" target="u-mHMumUnYcgjxV2VFEE-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-22" value="Usuário é redirecionado para a tela do sistema" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="445" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-24" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="u-mHMumUnYcgjxV2VFEE-23">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-25" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="u-mHMumUnYcgjxV2VFEE-23">
+          <mxGeometry x="3.5" y="3.75" width="22.5" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-26" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-120" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u-mHMumUnYcgjxV2VFEE-28" target="u-mHMumUnYcgjxV2VFEE-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-28" value="Sistema pede e-mail do usuário" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u-mHMumUnYcgjxV2VFEE-30" target="u-mHMumUnYcgjxV2VFEE-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u-mHMumUnYcgjxV2VFEE-30" value="Usuário informa o e-mail" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-630" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
