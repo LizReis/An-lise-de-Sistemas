@@ -145,7 +145,7 @@
           <mxGeometry x="480" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eaNFa7yRyqtscTY9dYG5-48" value="Requisito-15 GESTÃO GERA COMPROVANTE DE MATRÍCULA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="230" y="-1100" width="300" height="30" as="geometry" />
+          <mxGeometry x="245" y="-1100" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
