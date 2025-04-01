@@ -62,7 +62,7 @@
         <mxCell id="O1uYWcM-o3qOELPwGVDj-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O1uYWcM-o3qOELPwGVDj-22" target="O1uYWcM-o3qOELPwGVDj-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O1uYWcM-o3qOELPwGVDj-22" value="Gestor/Coordenador solicita para listar professores" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" vertex="1" parent="1">
+        <mxCell id="O1uYWcM-o3qOELPwGVDj-22" value="Gestor/Coordenador solicita para listar professores/alunos" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O1uYWcM-o3qOELPwGVDj-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="O1uYWcM-o3qOELPwGVDj-24" target="O1uYWcM-o3qOELPwGVDj-34">
@@ -74,7 +74,7 @@
         <mxCell id="O1uYWcM-o3qOELPwGVDj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O1uYWcM-o3qOELPwGVDj-26" target="O1uYWcM-o3qOELPwGVDj-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O1uYWcM-o3qOELPwGVDj-26" value="Sistema exibe lista de professores" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" vertex="1" parent="1">
+        <mxCell id="O1uYWcM-o3qOELPwGVDj-26" value="Sistema exibe lista de professores/alunos" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O1uYWcM-o3qOELPwGVDj-28" value="" style="group" vertex="1" connectable="0" parent="1">
