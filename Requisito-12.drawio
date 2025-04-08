@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.8">
   <diagram name="Página-1" id="7IFadYK3htX6NSER1Dyw">
     <mxGraphModel dx="948" dy="2909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,16 +92,16 @@
         <mxCell id="dbxqr3hXvO_ktMDXwcVB-29" value="Requisito-12 GESTÃO PODE VISUALIZAR E/OU ALTERAR CADASTROS DO SISTEMA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="210" y="-1190" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eFe5UvW8CCiUrrf2nUmH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eFe5UvW8CCiUrrf2nUmH-1" target="eFe5UvW8CCiUrrf2nUmH-4">
+        <mxCell id="eFe5UvW8CCiUrrf2nUmH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eFe5UvW8CCiUrrf2nUmH-1" target="eFe5UvW8CCiUrrf2nUmH-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eFe5UvW8CCiUrrf2nUmH-1" value="Gestão altera a informação" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eFe5UvW8CCiUrrf2nUmH-1" value="Gestão altera alguma informação" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="265" y="-560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eFe5UvW8CCiUrrf2nUmH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eFe5UvW8CCiUrrf2nUmH-4" target="dbxqr3hXvO_ktMDXwcVB-10">
+        <mxCell id="eFe5UvW8CCiUrrf2nUmH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="eFe5UvW8CCiUrrf2nUmH-4" target="dbxqr3hXvO_ktMDXwcVB-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eFe5UvW8CCiUrrf2nUmH-4" value="Gestão clica no botão &quot;Salvar Alteração&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eFe5UvW8CCiUrrf2nUmH-4" value="Gestão clica no botão &quot;Salvar Alteração&quot;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="265" y="-460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
